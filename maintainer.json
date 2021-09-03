@@ -1,0 +1,11 @@
+{
+  "repoLeadMaintainer": {
+    "name": "Dirk McCormick",
+    "email": "dirk@protocol.ai",
+    "username": "dirkmc"
+  },
+  "workingGroup": {
+    "name": "JS Maya",
+    "entryPoint": "https://github.com/maya/js-core"
+  }
+}
